@@ -1,0 +1,23 @@
+{
+  "name": "dxetech-docs",
+  "version": "1.0.0",
+  "description": "This guide explains how DxE tech works.",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/gitbook serve",
+    "postinstall": "./node_modules/.bin/gitbook install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/directactioneverywhere/docs.git"
+  },
+  "author": "DxE Tech",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/directactioneverywhere/docs/issues"
+  },
+  "homepage": "https://github.com/directactioneverywhere/docs#readme",
+  "dependencies": {
+    "gitbook-cli": "latest"
+  }
+}

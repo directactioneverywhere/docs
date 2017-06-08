@@ -1,0 +1,8 @@
+{
+  "gitbook": "latest",
+  "plugins": ["theme-librejs", "localized-footer", "-livereload", "-highlight", "-search", "-lunr", "-sharing", "-fontsettings"],
+  "localized-footer": {
+    "hline": true,
+    "filename": "./FOOTER.md"
+  }
+}
