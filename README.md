@@ -9,3 +9,10 @@ github.com/dxe/docs.
 npm install
 npm run start
 ```
+
+## How to deploy
+
+```
+git remote add dokku@dxetech.org:docs
+git push dokku master
+```

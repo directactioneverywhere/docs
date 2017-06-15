@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/gitbook serve",
-    "postinstall": "./node_modules/.bin/gitbook install",
-    "build": "gitbook install && mv _book www"
+    "postinstall": "./node_modules/.bin/gitbook install"
   },
   "repository": {
     "type": "git",
