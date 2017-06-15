@@ -13,6 +13,6 @@ npm run start
 ## How to deploy
 
 ```
-git remote add dokku@dxetech.org:docs
+git remote add dokku dokku@dxetech.org:docs
 git push dokku master
 ```
