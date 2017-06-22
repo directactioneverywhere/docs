@@ -4,9 +4,9 @@
   "description": "This guide explains how DxE tech works.",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/gitbook serve",
+    "start": "./node_modules/.bin/gitbook serve --port 5000",
     "postinstall": "./node_modules/.bin/gitbook install",
-    "build": "gitbook build && rm -rf www && mv _book www"
+    "build": "./node_modules/.bin/gitbook build && rm -rf www && mv _book www"
   },
   "repository": {
     "type": "git",
