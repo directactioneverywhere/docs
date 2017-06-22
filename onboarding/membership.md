@@ -12,7 +12,7 @@ After the new member has been voted on, do the following:
  * Send them the working group agreement. After they’ve filled it out, Almira will add them to all the correct communication channels (e.g. fb groups, mailing lists). Link: https://docs.google.com/a/directactioneverywhere.com/forms/d/1PvrlnLjNEFTyPwXFWks7AZaPFq6BaK3FueFpM7QF4qw/edit
  * Add them to the dxe tech riot chatroom and encourage them to install the riot app: https://riot.im/app/#/room/#dxetech:matrix.org
  * Add them to the wekan board: https://board.uptwinkles.co
- * Grant access to relevant github repo(s): github.com/dxe
+ * Grant access to relevant github repo(s): https://github.com/dxe
  
 You don’t need to be a member of the tech working group to sit in on meetings. Basically joining means you’ve made a commitment to the tech team and you get access to the mailing list.
  

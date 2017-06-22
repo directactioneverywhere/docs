@@ -1,9 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part 1](onboarding/README.md)
-  * [Something](onboarding/something.md)
+* Onboarding
+  * [Getting Started](onboarding/getting-started.md)
   * [Membership](onboarding/membership.md)
+  * [Objectives](onboarding/objectives.md)
 * [Reference](reference/README.md)
   * [Sign Up Script](reference/sign-up-script.md)
   * [Create DxE Email Account](reference/how-to-create-new-dxe-email.md)
