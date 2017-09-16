@@ -6,6 +6,7 @@
   * [Membership](onboarding/membership.md)
   * [Objectives](onboarding/objectives.md)
 * [Reference](reference/README.md)
+  * [dxe.io Url Shortcuts](reference/dxe.io.md)
   * [Sign Up Script](reference/sign-up-script.md)
   * [Create DxE Email Account](reference/how-to-create-new-dxe-email.md)
   * [Unsubscribe](reference/unsubscribe.md)

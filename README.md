@@ -5,9 +5,17 @@ github.com/dxe/docs.
 
 ## Improving this document
 
+For local development:
+
 ```
 npm install
 npm run start
+```
+
+To build the production site (do this before every commit):
+
+```
+npm run build
 ```
 
 ## How to deploy

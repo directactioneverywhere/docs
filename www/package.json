@@ -6,7 +6,7 @@
   "scripts": {
     "start": "./node_modules/.bin/gitbook serve --port 5000",
     "postinstall": "./node_modules/.bin/gitbook install",
-    "build": "gitbook build && rm -rf www && mv _book www"
+    "build": "rm -rf www && gitbook build && mv _book www"
   },
   "repository": {
     "type": "git",
